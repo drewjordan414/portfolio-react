@@ -3,8 +3,8 @@ import React from 'react';
 import Header from './Header';
 import Footer from './Footer';
 import AboutSection from './AboutSection';
-import ProjectSection from './ProjectSection';
-import Project from './Project';
+import ProjectSection from './MainProject';
+import Project from './Projects';
 
 const HomePage = () => (
   <div>

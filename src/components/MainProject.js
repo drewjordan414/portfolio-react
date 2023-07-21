@@ -1,7 +1,7 @@
 import React from 'react';
-import Project from './Project';
+import Project from './Projects';
 
-function ProjectSection() {
+function MainProject() {
     return (
         <section className="gallery-section">
             <section className="skill-section">
@@ -23,4 +23,4 @@ function ProjectSection() {
     );
 }
 
-export default ProjectSection;
+export default MainProject;
