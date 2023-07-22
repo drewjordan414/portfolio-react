@@ -9,7 +9,7 @@
 @font-face {
     font-family: 'Inconsolata';
     src: url('./fonts/Inconsolata/Inconsolata-VariableFont_wdth,wght.ttf') format('truetype'),
-         url('./fonts/Inconsolata/static/[font file name].ttf') format('truetype');
+         url('./fonts/Inconsolata/static/Inconsolata-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
