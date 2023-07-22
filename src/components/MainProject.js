@@ -1,5 +1,5 @@
 import React from 'react';
-import Project from './Projects';
+import Projects from './Projects';
 
 function MainProject() {
     return (
@@ -10,7 +10,7 @@ function MainProject() {
                     <h1 className="banner-title">Main Project</h1>
                 </section>
                 <section className="gallery-section">
-                    <Project 
+                    <Projects
                         url="https://github.com/drewjordan414/Plantalytics"
                         imageUrl="./assets/images/placeholder.png"
                         title="Plantalytics"
