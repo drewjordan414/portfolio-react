@@ -1,0 +1,20 @@
+.typing-about {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    font-family: monospace;
+    font-size: 2em;
+}
+
+.typing-about::after {
+    content: '';
+    display: inline-block;
+    border-right: 3px solid;
+    animation: blink .5s step-end infinite alternate;
+}
+
+@keyframes blink {
+    50% {
+        border-color: transparent;
+    }
+}
