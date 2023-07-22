@@ -1,7 +1,8 @@
 import React from 'react';
 
 function AboutSection() {
-    return (
+    return ( 
+        //change alt tag
         <section className="whoami" alt="the content for whoami">
             <p>About</p>
             <h2 className="typing">Drew Jordan</h2>

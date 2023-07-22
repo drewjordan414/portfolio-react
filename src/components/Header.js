@@ -8,8 +8,9 @@ function Header() {
                 <li className="nav-item">
                     <a href="https://github.com/drewjordan414" target="_blank" rel="noopener noreferrer" className="github-link">Github</a>
                 </li>
+                {/* make the resume a downloadable pdf */}
                 <li className="nav-item">
-                    <a href="/resume" className="resume-link">Resume</a>
+                    <a href="/resume" className="resume-link">Resume</a> 
                 </li>
                 <li className="nav-item">
                     <a href="/" className="github-link">Home</a>
