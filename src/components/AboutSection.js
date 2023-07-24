@@ -1,9 +1,11 @@
 import React from 'react';
+import pfp_use from '../assets/images/pfp_use.png';
 
 function AboutSection() {
     return ( 
         //change alt tag
         <section className="whoami" alt="the content for whoami">
+            <img src={pfp_use} alt="profile picture" className="profile-picture" />
             <p>About</p>
             <h2 className="typing-about">Drew Jordan</h2>
             <article className="text-alignment">

@@ -38,25 +38,25 @@ function MainProject() {
                     <h1 className="banner-title">Projects</h1>
                 </section>
                 <section className="gallery-section">
-                    <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
+                    <div id="carouselExampleControls" className="carousel slide carousel-custom" data-ride="carousel">
                         <div className="carousel-inner">
                             <div className="carousel-item active">
                                 <img className="d-block w-100" src={project2} alt="CTA-Train-Tracker" />
-                                <div className="carousel-caption d-none d-md-block">
+                                <div className="carousel-caption d-none d-md-block carousel-caption-custom">
                                     <h5>CTA Train Tracker</h5>
                                     <p>Description for CTA Train Tracker</p>
                                 </div>
                             </div>
                             <div className="carousel-item">
                                 <img className="d-block w-100" src={gtimeplanner} alt="GameTime Planner" />
-                                <div className="carousel-caption d-none d-md-block">
+                                <div className="carousel-caption d-none d-md-block carousel-caption-custom">
                                     <h5>GameTime Planner</h5>
                                     <p>Description for GameTime Planner</p>
                                 </div>
                             </div>
                             <div className="carousel-item">
                                 <img className="d-block w-100" src={placeholder} alt="Third slide" />
-                                <div className="carousel-caption d-none d-md-block">
+                                <div className="carousel-caption d-none d-md-block carousel-caption-custom">
                                     <h5>Title for Third Slide</h5>
                                     <p>Description for Third Slide</p>
                                 </div>
@@ -78,3 +78,4 @@ function MainProject() {
 }
 
 export default MainProject;
+
