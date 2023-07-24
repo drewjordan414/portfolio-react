@@ -7,10 +7,12 @@ import MainProject from './MainProject';
 // import HomePage from './HomePage';
 import Footer from './Footer';
 import '../assets/stylesheet.css';
+import ProfilePicture from './ProfilePicture';
 
 const MainPage = () => (
   <div>
     <Header />
+    <ProfilePicture />
     <AboutSection />
     <MainProject />
     <Footer />
