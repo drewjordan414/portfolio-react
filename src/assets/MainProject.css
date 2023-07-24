@@ -1,0 +1,9 @@
+.carousel-custom .d-block {
+    max-height: 200px; /* Adjust as needed */
+    max-width: 200px;
+    object-fit: cover; /* This keeps aspect ratio */
+}
+
+.carousel-caption-custom {
+    color: black;
+}

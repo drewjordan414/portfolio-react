@@ -22,12 +22,10 @@
 //         </section>
 //     );
 // }
-
-// export default MainProject;
 import React from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css'; // add Bootstrap CSS
+import 'bootstrap/dist/css/bootstrap.min.css';
+import '../assets/MainProject.css';
 
-// Import your images
 import project2 from '../assets/images/project2.png';
 import gtimeplanner from '../assets/images/gtimeplanner.png';
 import placeholder from '../assets/images/placeholder.png';
@@ -44,12 +42,24 @@ function MainProject() {
                         <div className="carousel-inner">
                             <div className="carousel-item active">
                                 <img className="d-block w-100" src={project2} alt="CTA-Train-Tracker" />
+                                <div className="carousel-caption d-none d-md-block">
+                                    <h5>CTA Train Tracker</h5>
+                                    <p>Description for CTA Train Tracker</p>
+                                </div>
                             </div>
                             <div className="carousel-item">
                                 <img className="d-block w-100" src={gtimeplanner} alt="GameTime Planner" />
+                                <div className="carousel-caption d-none d-md-block">
+                                    <h5>GameTime Planner</h5>
+                                    <p>Description for GameTime Planner</p>
+                                </div>
                             </div>
                             <div className="carousel-item">
                                 <img className="d-block w-100" src={placeholder} alt="Third slide" />
+                                <div className="carousel-caption d-none d-md-block">
+                                    <h5>Title for Third Slide</h5>
+                                    <p>Description for Third Slide</p>
+                                </div>
                             </div>
                         </div>
                         <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -68,4 +78,3 @@ function MainProject() {
 }
 
 export default MainProject;
-
