@@ -9,6 +9,7 @@ import Footer from './Footer';
 import '../assets/stylesheet.css';
 import PFP from './PFP';
 import '../assets/stylesheet.css';
+import Contact from './Contact';
 
 const MainPage = () => (
   <div>
@@ -18,6 +19,7 @@ const MainPage = () => (
       <AboutSection />
     </div>
     <MainProject />
+    <Contact />
     <Footer />
   </div>
 );

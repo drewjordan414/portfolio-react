@@ -4,7 +4,7 @@ import Header from './Header';
 import Footer from './Footer';
 import AboutSection from './AboutSection';
 import MainProject from './MainProject';
-import PFP from './PFP';
+import Contact from './Contact';
 
 const HomePage = () => (
   <div className="home-page">
@@ -13,6 +13,7 @@ const HomePage = () => (
       <AboutSection />
     </div>
     <MainProject />
+    <Contact />
     <Footer />
   </div>
 );

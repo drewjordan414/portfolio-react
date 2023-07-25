@@ -33,6 +33,8 @@ import LandingPage from './components/LandingPage';
 import HomePage from './components/HomePage'; 
 import MainPage from './components/MainPage';
 import MainProject from './components/MainProject';
+// import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
     return (
