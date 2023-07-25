@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/www.drewjordan.dev/static/css/main.0f062fac.css",
-    "main.js": "/www.drewjordan.dev/static/js/main.6b343c1c.js",
-    "static/media/project2.png": "/www.drewjordan.dev/static/media/project2.2e277e77e2343425bda7.png",
-    "static/media/pfp_use.png": "/www.drewjordan.dev/static/media/pfp_use.5f036f1b2eda1968e93c.png",
-    "static/media/Inconsolata-VariableFont_wdth,wght.ttf": "/www.drewjordan.dev/static/media/Inconsolata-VariableFont_wdth,wght.2c4768fdb5a500ba9f6c.ttf",
-    "static/media/gtimeplanner.png": "/www.drewjordan.dev/static/media/gtimeplanner.e3ee245b2567653384ad.png",
-    "static/media/Inconsolata-Regular.ttf": "/www.drewjordan.dev/static/media/Inconsolata-Regular.e7bec421392d6d1b766d.ttf",
-    "index.html": "/www.drewjordan.dev/index.html",
-    "main.0f062fac.css.map": "/www.drewjordan.dev/static/css/main.0f062fac.css.map",
-    "main.6b343c1c.js.map": "/www.drewjordan.dev/static/js/main.6b343c1c.js.map"
+    "main.css": "/portfolio-react/static/css/main.d0bcc475.css",
+    "main.js": "/portfolio-react/static/js/main.0dbf7006.js",
+    "static/media/project2.png": "/portfolio-react/static/media/project2.2e277e77e2343425bda7.png",
+    "static/media/pfp_use.png": "/portfolio-react/static/media/pfp_use.5f036f1b2eda1968e93c.png",
+    "static/media/Inconsolata-VariableFont_wdth,wght.ttf": "/portfolio-react/static/media/Inconsolata-VariableFont_wdth,wght.2c4768fdb5a500ba9f6c.ttf",
+    "static/media/gtimeplanner.png": "/portfolio-react/static/media/gtimeplanner.e3ee245b2567653384ad.png",
+    "static/media/Inconsolata-Regular.ttf": "/portfolio-react/static/media/Inconsolata-Regular.e7bec421392d6d1b766d.ttf",
+    "index.html": "/portfolio-react/index.html",
+    "main.d0bcc475.css.map": "/portfolio-react/static/css/main.d0bcc475.css.map",
+    "main.0dbf7006.js.map": "/portfolio-react/static/js/main.0dbf7006.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f062fac.css",
-    "static/js/main.6b343c1c.js"
+    "static/css/main.d0bcc475.css",
+    "static/js/main.0dbf7006.js"
   ]
 }
