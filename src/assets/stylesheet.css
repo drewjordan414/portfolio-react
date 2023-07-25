@@ -16,7 +16,7 @@
 
 
 /* Header and Navbar */
-.header {
+#header {
     display: flex;
     justify-content: flex-end;
     text-align: right;
@@ -24,9 +24,19 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     border-bottom: 4px solid black;
     padding-bottom: 10px;
+    height: 100px;
 }
 
-.navbar {
+.nav-item, navbar-nav {
+    background-color: white !important;
+}
+
+.nav-link{
+    color: black !important;
+    font-size: 20px !important;
+}
+
+/* .navbar {
     justify-content: flex-end;
 }
 
@@ -39,7 +49,6 @@
 
 .nav-item {
     margin: 0 10px;
-    /* border-right: 4px solid black; */
 }
 
 
@@ -80,7 +89,7 @@
 .resume-link:hover {
     color: black;
     transform: scale(1.1);
-}
+}  */
 
 /* body */
 body {
@@ -312,11 +321,62 @@ body {
     text-align: center;
 }
 
+/* contact */
+/* Contact form CSS */
 
+.contact-form-container {
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form-title {
+    font-family: 'Inconsolata', monospace;
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: black;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Inconsolata', monospace;
+}
+
+.contact-form input,
+.contact-form textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: 'Inconsolata', monospace;
+    font-size: 16px;
+}
+
+.contact-form button {
+    font-family: 'Inconsolata', monospace;
+    font-size: 18px;
+    color: white;
+    background-color: black;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.contact-form button:hover {
+    background-color: #444;
+}
 
 
 /* footer */
-.bottom {
+/* .bottom {
     display: flex;
     justify-content: flex-start;
     text-align: right;
@@ -324,8 +384,13 @@ body {
     border-top: 4px solid black;
     margin-top: 200px;
     padding-top: 20px;
-}
+} */
 
+.footer-nav-link{
+    color: black !important;
+    font-size: 20px !important;
+    margin: 20px;
+}
 
 
 
