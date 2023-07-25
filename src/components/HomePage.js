@@ -3,14 +3,16 @@ import React from 'react';
 import Header from './Header';
 import Footer from './Footer';
 import AboutSection from './AboutSection';
-import ProjectSection from './MainProject';
-// import Projects from './Projects';
+import MainProject from './MainProject';
+import PFP from './PFP';
 
 const HomePage = () => (
-  <div>
+  <div className="home-page">
     <Header />
-    <AboutSection />
-    <ProjectSection />
+    <div>
+      <AboutSection />
+    </div>
+    <MainProject />
     <Footer />
   </div>
 );
