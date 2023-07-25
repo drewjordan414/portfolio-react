@@ -23,6 +23,7 @@
 ## Overview
 
 This is a portfolio website that showcases my work as a software developer. The website is built with React and styled with CSS.
+The links work locally, however, on GitHub they don't.
 
 ## Features
 
