@@ -1,4 +1,55 @@
-# Getting Started with Create React App
+# Portfolio
+
+## Table of Contents
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Getting Started](#getting-started)
+   * [Prerequisites](#prerequisites)
+   * [Technologies Used](#technologies-used)
+   * [Getting Started with Create React App](#getting-started-with-create-react-app)
+4. [Available Scripts](#available-scripts)
+   * [`npm start`](#npm-start)
+   * [`npm test`](#npm-test)
+   * [`npm run build`](#npm-run-build)
+   * [`npm run eject`](#npm-run-eject)
+5. [Learn More](#learn-more)
+   * [Code Splitting](#code-splitting)
+   * [Analyzing the Bundle Size](#analyzing-the-bundle-size)
+   * [Making a Progressive Web App](#making-a-progressive-web-app)
+   * [Advanced Configuration](#advanced-configuration)
+   * [Deployment](#deployment)
+   * [`npm run build` fails to minify](#npm-run-build-fails-to-minify)
+
+## Overview
+
+This is a portfolio website that showcases my work as a software developer. The website is built with React and styled with CSS.
+
+## Features
+
+* A home page with a brief introduction and navigation to other sections of the portfolio.
+* A projects page with a carousel of my major works. Each project includes a description and a link to the project or the codebase.
+* A resume page where visitors can download my resume in PDF format.
+* A contact form for visitors to send me a message.
+* A footer with links to my GitHub and LinkedIn profiles.
+
+## Getting Started
+
+### Prerequisites
+
+* Node.js
+* npm
+
+## Technologies Used
+- React
+- CSS
+- Bootstrap
+- Formspree
+
+
+
+
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
