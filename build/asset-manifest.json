@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/www.drewjordan.dev/static/css/main.0f062fac.css",
+    "main.js": "/www.drewjordan.dev/static/js/main.6b343c1c.js",
+    "static/media/project2.png": "/www.drewjordan.dev/static/media/project2.2e277e77e2343425bda7.png",
+    "static/media/pfp_use.png": "/www.drewjordan.dev/static/media/pfp_use.5f036f1b2eda1968e93c.png",
+    "static/media/Inconsolata-VariableFont_wdth,wght.ttf": "/www.drewjordan.dev/static/media/Inconsolata-VariableFont_wdth,wght.2c4768fdb5a500ba9f6c.ttf",
+    "static/media/gtimeplanner.png": "/www.drewjordan.dev/static/media/gtimeplanner.e3ee245b2567653384ad.png",
+    "static/media/Inconsolata-Regular.ttf": "/www.drewjordan.dev/static/media/Inconsolata-Regular.e7bec421392d6d1b766d.ttf",
+    "index.html": "/www.drewjordan.dev/index.html",
+    "main.0f062fac.css.map": "/www.drewjordan.dev/static/css/main.0f062fac.css.map",
+    "main.6b343c1c.js.map": "/www.drewjordan.dev/static/js/main.6b343c1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f062fac.css",
+    "static/js/main.6b343c1c.js"
+  ]
+}
