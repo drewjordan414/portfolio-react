@@ -15,7 +15,7 @@ function Header() {
                                 <a className="nav-link" href="https://github.com/drewjordan414" target="_blank" rel="noopener noreferrer">Github</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="https://drive.google.com/uc?export=download&id=1SGV-oznblBVmh-bTfru20_QysYVgngho" target="_blank" rel="noopener noreferrer">Resume</a>
+                                <a className="nav-link" href="https://drive.google.com/file/d/1SGV-oznblBVmh-bTfru20_QysYVgngho/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link" href="/">Home</a>
